@@ -9,7 +9,7 @@ LOGO  = "/tmp/claude-0/-home-user-RXS/0ad0031b-0623-52ca-a8ef-bf297e37d330/scrat
 JOB_TITLE = "WATER DAMAGE REPAIR ESTIMATE — MASTER BATHROOM"
 EST_NO    = "ARC-2026-0806-001"
 DATE      = "August 6, 2026"
-CUSTOMER  = ["Homeowner"]          # TODO: replace with the homeowner's name
+CUSTOMER  = ["David Miniter"]
 LOCATION  = ["3231 Appalachian Trl", "Kingwood, TX 77345"]
 
 INCLUDED_LEFT  = ["Removal of water-damaged wall material",
